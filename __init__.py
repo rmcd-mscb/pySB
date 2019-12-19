@@ -2,8 +2,8 @@
 Testing the packaging
 
 """
-__name__ = 'pyFM'
-__author__ = 'Richard McDonald, Flopy'
+__name__ = 'pySB'
+__author__ = 'Richard McDonald'
 
 #imports
 from . import Utils

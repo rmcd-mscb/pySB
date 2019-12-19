@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pyFM.iml" filepath="$PROJECT_DIR$/.idea/pyFM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pySB.iml" filepath="$PROJECT_DIR$/.idea/pySB.iml" />
     </modules>
   </component>
 </project>
